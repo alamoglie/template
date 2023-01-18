@@ -3,6 +3,7 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 2
+;
     min-height: 100vh;
 }
